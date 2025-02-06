@@ -1,2 +1,6 @@
-Console.WriteLine("Add two numbers");
+Console.WriteLine("enter  1st number");
 int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter 2nd Number");
+int y = Convert.ToInt32(Console.ReadLine();
+int z = x+y
+Console.WriteLine("sum oof numbers is " +z);
